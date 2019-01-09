@@ -1,0 +1,1 @@
+To compile: CTRL+Shift+B, launch Watch. Everytime we modify the code it will recompile
